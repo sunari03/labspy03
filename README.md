@@ -1,5 +1,5 @@
 # labspy03
-latihan1.py,
+*latihan1.py,
 
 n = int(input("Masukkan nilai N:"))
 
@@ -18,7 +18,7 @@ print("selesai")
 ![image](https://user-images.githubusercontent.com/56722786/68598414-9a8dc380-0453-11ea-9ba3-51dae587ed02.png)
 
 
-latihan2.py,
+* latihan2.py,
 
 print("Program menampilkan bilangan terbesar dari n bilangan")
 
@@ -43,7 +43,7 @@ print("Nilai terbesar adalah:", max)
 ![image](https://user-images.githubusercontent.com/56722786/68598885-77afdf00-0454-11ea-9c30-91963b43e041.png)
 
 
-program1.py
+*program1.py
 
 x=1000000000
 
